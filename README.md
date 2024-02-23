@@ -18,10 +18,12 @@ The only problem with these current graphs are that they only represent one back
 
 I'll start with the first part. Using 50 random stocks instead of 10, lets see what the returns look like for a 10 and 20 day exit condition.
 
-20 Day (~5800%):
+### 20 Day (~5800%):
+
 <img width="833" alt="Screen Shot 2024-02-23 at 12 28 15 PM" src="https://github.com/gabe-walter/Turtles/assets/113553473/a004cd2f-93e8-4fa3-9fb6-c39cb76ae422">
 
-10 Day (~3700%) :
+### 10 Day (~3700%) :
+
 <img width="834" alt="Screen Shot 2024-02-23 at 12 28 58 PM" src="https://github.com/gabe-walter/Turtles/assets/113553473/fb8a0a42-a735-4ed3-bdfb-2a11444a1527">
 
 Both strategies put up very high numbers. Now, if we run a loop, we can check for the average return. For ease of use, I will use 25 randomly chosen stocks for these simulations, which will make the loop faster and I will utilize the 20 day exit strategy for maximum returns. With 100 iterations of the strategy, the loop took about 15 minutes to run and came back with an average return of 2207%. 
