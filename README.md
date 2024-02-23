@@ -28,7 +28,7 @@ Both strategies put up very high numbers. Now, if we run a loop, we can check fo
 
 <img width="498" alt="Screen Shot 2024-02-23 at 1 26 53 PM" src="https://github.com/gabe-walter/Turtles/assets/113553473/621111a4-1264-4242-b83e-fc0131185809">
 
-However, there were two instances where the account when completely broke, losing all money. The maximum return was 8542%. The standard deviation was 1543%. This highlights the extreme variance of the strategy, and for this reason, I would not recommend anybody attempt to trade this strategy without much, much more research. This was simply a fun experiment. This test was done in a vacuum without any real life market factors that will almost certainly cause returns to be lower. 
+However, there were two instances where the account when completely broke, losing all money. The maximum return was 8352%. The standard deviation was 1543%. This highlights the extreme variance of the strategy, and for this reason, I would not recommend anybody attempt to trade this strategy without much, much more research. This was simply a fun experiment. This test was done in a vacuum without any real life market factors that will almost certainly cause returns to be lower. 
 
 There is a lot more that could be done to explore this strategy further, but I will save that for future projects. Hope you enjoyed!
 
